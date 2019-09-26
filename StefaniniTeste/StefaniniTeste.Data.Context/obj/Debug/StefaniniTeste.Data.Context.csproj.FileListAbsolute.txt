@@ -1,0 +1,15 @@
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.Data.Context\bin\Debug\StefaniniTeste.Data.Context.dll.config
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.Data.Context\bin\Debug\StefaniniTeste.Data.Context.dll
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.Data.Context\bin\Debug\StefaniniTeste.Data.Context.pdb
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.Data.Context\bin\Debug\EntityFramework.dll
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.Data.Context\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.Data.Context\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.Data.Context\bin\Debug\EntityFramework.xml
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.Data.Context\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.Data.Context\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.Data.Context\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.Data.Context\obj\Debug\StefaniniTeste.Data.Context.csprojAssemblyReference.cache
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.Data.Context\obj\Debug\StefaniniTeste.Data.Context.csproj.CoreCompileInputs.cache
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.Data.Context\obj\Debug\StefaniniTeste.Data.Context.csproj.CopyComplete
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.Data.Context\obj\Debug\StefaniniTeste.Data.Context.dll
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.Data.Context\obj\Debug\StefaniniTeste.Data.Context.pdb

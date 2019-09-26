@@ -1,0 +1,6 @@
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.Application\bin\Debug\StefaniniTeste.Application.dll
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.Application\bin\Debug\StefaniniTeste.Application.pdb
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.Application\obj\Debug\StefaniniTeste.Application.csprojAssemblyReference.cache
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.Application\obj\Debug\StefaniniTeste.Application.csproj.CoreCompileInputs.cache
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.Application\obj\Debug\StefaniniTeste.Application.dll
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.Application\obj\Debug\StefaniniTeste.Application.pdb

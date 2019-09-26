@@ -1,0 +1,2 @@
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.Data.Repository\obj\Debug\StefaniniTeste.Data.Repository.csprojAssemblyReference.cache
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.Data.Repository\obj\Debug\StefaniniTeste.Data.Repository.csproj.CoreCompileInputs.cache

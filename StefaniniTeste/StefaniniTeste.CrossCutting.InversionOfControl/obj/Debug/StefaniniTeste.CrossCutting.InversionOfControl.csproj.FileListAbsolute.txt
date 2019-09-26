@@ -1,0 +1,6 @@
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.CrossCutting.InversionOfControl\bin\Debug\StefaniniTeste.CrossCutting.InversionOfControl.dll
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.CrossCutting.InversionOfControl\bin\Debug\StefaniniTeste.CrossCutting.InversionOfControl.pdb
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.CrossCutting.InversionOfControl\obj\Debug\StefaniniTeste.CrossCutting.InversionOfControl.csprojAssemblyReference.cache
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.CrossCutting.InversionOfControl\obj\Debug\StefaniniTeste.CrossCutting.InversionOfControl.csproj.CoreCompileInputs.cache
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.CrossCutting.InversionOfControl\obj\Debug\StefaniniTeste.CrossCutting.InversionOfControl.dll
+E:\Projetos\StefaniniTeste\StefaniniTeste\StefaniniTeste.CrossCutting.InversionOfControl\obj\Debug\StefaniniTeste.CrossCutting.InversionOfControl.pdb
